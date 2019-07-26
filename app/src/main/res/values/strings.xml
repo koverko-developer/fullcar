@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FullCar</string>
+    <string name="hello_app">Добро пожаловать в Fullcar!</string>
+    <string name="start_create_ride">Создайте поездку</string>
+    <string name="start_schedule_ride">Планируйте заранее поездки</string>
+    <string name="start_share">Делитесь с друзьями и находите попутчиков</string>
+    <string name="start_write_in_profile">Заполняйте профиль и зарабатывайте баллы</string>
+</resources>
